@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/0a/a0/3f/0aa03fe05673673cf1f45db2340b5096.jpg" align="center" >
+<img src="https://i.pinimg.com/564x/0a/a0/3f/0aa03fe05673673cf1f45db2340b5096.jpg" style="width:100%;" align="center" >
  <h1 align="center" style="color: green"> Rafpsy here 🔥</h1>
 
 
@@ -35,7 +35,7 @@
 
 
 <div class="footer">
-  <p align="center">&copy; 2024 Rafpsy developer</p>
+  <p align="end">&copy; 2024 Rafpsy developer</p>
 </div>
 
  ![](https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
