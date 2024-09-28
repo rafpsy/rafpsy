@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/564x/0a/a0/3f/0aa03fe05673673cf1f45db2340b5096.jpg){width='100%'}
+<img src="https://i.pinimg.com/564x/0a/a0/3f/0aa03fe05673673cf1f45db2340b5096.jpg" align="center" style="width:200%;">
  <h1 align="center" style="color: green"> Rafpsy here 🔥</h1>
 
  <hr>
