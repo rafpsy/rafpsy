@@ -1,7 +1,7 @@
-<img src="https://i.pinimg.com/564x/0a/a0/3f/0aa03fe05673673cf1f45db2340b5096.jpg" align="center" style="width:200%;">
+<img src="https://i.pinimg.com/564x/0a/a0/3f/0aa03fe05673673cf1f45db2340b5096.jpg" align="center" >
  <h1 align="center" style="color: green"> Rafpsy here 🔥</h1>
 
- <hr>
+
 
  ## 💫 About Me
  
@@ -18,7 +18,7 @@
   <img src="/tools/html5.svg" width='50'>
   <img src="/tools/css.svg" width='50'>
   <img src="/tools/javascript.svg" width='60'>
-  <img src="/tools/astro_dark.svg" width='50'>
+  <img src="/tools/astro_dark.svg" width='40'>
   <img src="/tools/bash_dark.svg" width='50'>
   <img src="/tools/tailwindcss.svg" width='50'>
   <img src="/tools/nodejs.svg" width='50'>
